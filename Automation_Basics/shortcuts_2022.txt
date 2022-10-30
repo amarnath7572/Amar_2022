@@ -1,0 +1,11 @@
+Run - Ctrl F11
+Comment - Ctrl /
+Multiple comment - Ctrl Shift /
+ALt Ctrl G - get all instances of a word
+Ctrl Shift R - Open a resource/file
+F3 - Get into method
+Alt + Left Arrow - Go back to method 
+Ctrl + 3 : QuickSearch -> Keys : Configure Eclipse shorcuts
+Ctrl + : zoom into the editor
+Ctrl - : zoom out of the editor
+Ctrl + Shift + - : collapse all methods
